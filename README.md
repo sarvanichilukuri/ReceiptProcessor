@@ -16,4 +16,5 @@ My port is listening on localhost:8080
 The application supports the below URLs:
 
 POST request - localhost:8080/receipts/process
+
 GET request - localhost:8080/receipts/:id/points
